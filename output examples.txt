@@ -1,0 +1,311 @@
+Document of all the runtime outputs.
+
+
+######################################PART 1
+
+CECS 378 Lab 1
+Choose from the following options
+1. Decrypt #1 (Cesar)
+2. Decrypt #2 (Cesar)
+3. Decrypt #3 (Substitution)
+4. Decrypt #4 (Substitution)
+5. Encrypt #1
+6. Encrypt #2
+7. Encrypt #3
+Enter an option: 1
+what s in a name arose by any other name would smell as sweet
+Base key: ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+Actual key: ['r', 's', 't', 'l', 'e', 'e', 'g', 'y', 'i', 'a', 'b', 'l', 'd', 'n', 'o', 'p', 'h', 'i', 's', 't', 'u', 'm', 'w', 'o', 'y', 'z']
+
+######################################PART 2
+
+CECS 378 Lab 1
+Choose from the following options
+1. Decrypt #1 (Cesar)
+2. Decrypt #2 (Cesar)
+3. Decrypt #3 (Substitution)
+4. Decrypt #4 (Substitution)
+5. Encrypt #1
+6. Encrypt #2
+7. Encrypt #3
+Enter an option: 2
+there are two things to aim at in life first to get what you want and after that to enjoy it only the wisest of mankind achieve the second
+Base key: ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+Actual key: ['k', 'l', 'm', 's', 'j', 'f', 'g', 'h', 'i', 'o', 'k', 'l', 'w', 'n', 'd', 'u', 'v', 'r', 's', 't', 'u', 'a', 'w', 'c', 'y', 'e']
+
+######################################PART 3
+
+Choose from the following options
+1. Decrypt #1 (Cesar)
+2. Decrypt #2 (Cesar)
+3. Decrypt #3 (Substitution)
+4. Decrypt #4 (Substitution)
+5. Encrypt #1
+6. Encrypt #2
+7. Encrypt #3
+Enter an option: 3
+ERROR: pri
+ERROR: seiy
+ERROR: anu
+ERROR: todd
+ERROR: bcs
+ERROR: lao
+ERROR: vesta
+ERROR: madre
+ERROR: str
+ERROR: yun
+ERROR: lys
+ERROR: sedis
+ERROR: eso
+ERROR: dur
+Iteration 1
+Best key:  ['e', 'k', 'b', 'f', 'p', 'u', 'h', 'l', 'i', 'r', 'c', 'a', 'j', 'w', 'v', 'm', 'd', 'n', 'o', 's', 'y', 'q', 't', 'x', 'z', 'g']
+Plain text:  prismometedapriseiyanstaanuanaaevestoddreshebcslaoinevestamadrestryunlalysodesedisesoeisscosdurbep
+-820.1047190667739
+ERROR: ri
+ERROR: lede
+ERROR: eim
+ERROR: wi
+ERROR: fy
+ERROR: imi
+ERROR: hould
+ERROR: isnt
+ERROR: aint
+ERROR: ty
+ERROR: slo
+ERROR: fic
+Iteration 4
+Best key:  ['i', 'v', 'f', 'z', 'c', 'l', 'w', 'b', 'n', 'o', 'y', 'e', 'x', 'p', 'm', 'r', 's', 'd', 'a', 't', 'u', 'g', 'h', 'j', 'k', 'q']
+Plain text:  contrarihisecontinuedtheedledeeimithassoitwifytbeandimitheresoithouldbebutasitisntitainttyatslofic
+-751.8090395972079
+ERROR: ri
+ERROR: ee
+ERROR: hould
+ERROR: isnt
+ERROR: aint
+ERROR: tp
+ERROR: slo
+ERROR: mic
+Iteration 89
+Best key:  ['i', 'x', 'm', 'w', 'c', 'l', 'y', 'b', 'n', 'o', 'p', 'e', 'v', 'q', 'f', 'r', 's', 'd', 'a', 't', 'u', 'j', 'h', 'z', 'k', 'g']
+Plain text:  contrarihisecontinuedtheedledeeifithassoityimptbeandifitheresoithouldbebutasitisntitainttpatslomic
+-749.8320946331073
+ERROR: tweedledee
+ERROR: isnt
+ERROR: aint
+Close to final answer...
+[0, 5, 8, 11, 16, 17, 18, 19, 22]
+Final Iteration
+Iteration 302
+Base:  ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+Best key:  ['i', 'p', 'g', 'v', 'c', 'l', 'm', 'b', 'n', 'o', 'h', 'e', 'z', 'x', 'f', 'r', 's', 'd', 'a', 't', 'u', 'q', 'w', 'y', 'j', 'k']
+Plain text:  contrariwise continued tweedledee if it was so it might be and if it were so it would be but as it isnt it aint that s logic
+-740.3554472493968
+
+######################################PART 4
+
+CECS 378 Lab 1
+Choose from the following options
+1. Decrypt #1 (Cesar)
+2. Decrypt #2 (Cesar)
+3. Decrypt #3 (Substitution)
+4. Decrypt #4 (Substitution)
+5. Encrypt #1
+6. Encrypt #2
+7. Encrypt #3
+Enter an option: 4
+ERROR: eb
+ERROR: itv
+ERROR: torah
+ERROR: ulan
+ERROR: ln
+ERROR: hbs
+ERROR: bian
+ERROR: rh
+ERROR: bei
+ERROR: buda
+ERROR: trs
+ERROR: rau
+ERROR: str
+ERROR: sjsu
+ERROR: lm
+ERROR: de
+ERROR: tra
+ERROR: ne
+ERROR: esa
+ERROR: rar
+ERROR: noo
+ERROR: han
+ERROR: ern
+ERROR: trs
+ERROR: kun
+ERROR: dsi
+ERROR: tv
+ERROR: seth
+ERROR: sei
+ERROR: osr
+ERROR: ud
+ERROR: lys
+ERROR: rees
+ERROR: eos
+ERROR: sk
+ERROR: ne
+ERROR: rbb
+ERROR: teri
+ERROR: walter
+ERROR: garth
+ERROR: dr
+ERROR: asl
+ERROR: fu
+ERROR: ds
+ERROR: hs
+ERROR: tue
+ERROR: nome
+ERROR: nh
+ERROR: gras
+ERROR: pre
+ERROR: laney
+Iteration 1
+Best key:  ['h', 'w', 'z', 'd', 't', 'k', 'x', 'a', 'e', 'o', 'j', 'p', 'l', 'n', 'm', 'q', 's', 'f', 'r', 'y', 'u', 'c', 'v', 'g', 'b', 'i']
+Plain text:  ebasitvsenhistorahbineswthatulanlnoohseebutgshbsjnowtuseeatdbianeeknunrhbeibudatrsraustrshepublsjsuthshslmtoorasibuodishdetraneinoohbibuesaschbisrarnootooinranhanlbyernhtrskundsitvsethditcseianosrasitudsheoflysueraseknunreeshrumeossknerbbpterianwaltersueanelngarthdraslfudsusuhstueerstoranomeabbrnhgraseatprepublaneybi
+-3037.715408383765
+ERROR: tlrs
+ERROR: dow
+ERROR: aud
+ERROR: rul
+ERROR: dat
+ERROR: oic
+ERROR: rac
+ERROR: tli
+ERROR: og
+ERROR: sul
+ERROR: kam
+ERROR: tron
+ERROR: ld
+ERROR: thai
+ERROR: eu
+ERROR: lin
+ERROR: seri
+ERROR: ut
+ERROR: vil
+ERROR: sk
+ERROR: sio
+ERROR: uscf
+ERROR: mers
+ERROR: erat
+ERROR: ldl
+ERROR: bul
+ERROR: dae
+ERROR: rau
+ERROR: rac
+ERROR: ly
+ERROR: teau
+ERROR: oe
+ERROR: shi
+ERROR: dow
+ERROR: bst
+ERROR: ers
+ERROR: su
+ERROR: tmz
+ERROR: cy
+ERROR: thai
+ERROR: ett
+ERROR: tms
+ERROR: sha
+ERROR: gre
+ERROR: ou
+ERROR: ner
+ERROR: cz
+ERROR: uso
+ERROR: te
+ERROR: trl
+ERROR: le
+ERROR: tv
+ERROR: il
+ERROR: crat
+ERROR: yl
+Iteration 2
+Best key:  ['u', 'p', 'x', 'n', 'o', 'h', 'q', 'r', 't', 'm', 'k', 'v', 'c', 'a', 'f', 'j', 's', 'z', 'e', 'y', 'i', 'b', 'w', 'g', 'l', 'd']
+Plain text:  tlrsdowstaudsomeruldatspouroicracammusttliogsulskampoisttronldratthaiaeultdlinroeserisoesutvilcsksioususcfommersdlimndsuntoeratdammuldlitsrsbuldsereammommdaerauraclyteauoeshiansdowstoundobstdramsersdoinsutmzcysitersthaiaettsueiftmsshatellvotedraprcotesitratcagreounersczinsisiusoittesomeramftrlleaugerstrovetvilcratyld
+-2925.1745083902597
+ERROR: il
+ERROR: exe
+ERROR: eth
+Close to final answer...
+[7, 9, 10, 13, 16, 18]
+Iteration 3
+Best key:  ['n', 'c', 'q', 'd', 'a', 'p', 'z', 'h', 's', 'l', 'x', 'f', 'm', 'i', 'y', 'j', 'e', 'u', 't', 'b', 'r', 'k', 'v', 'g', 'o', 'w']
+Plain text:  sohewavesinwealthnowisecanharmhimillnessoragenoexilcaresshadowhisspiritnoswordhatethreatensfromexeranenemyalltheworldwendsathiswillnoworseheknowethtillallwithinhimobstinatepridewavesandwakeswhilethewardenslumbersthespiritssentrysleepistoofastwhichmastershismightandthemurderernearsstealthilyshootingtheshaftsfromhisbow
+-2446.889621104133
+Final Iteration
+Iteration 70
+Base:  ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+Best key:  ['n', 'c', 'q', 'd', 'a', 'p', 'z', 'h', 's', 'l', 'v', 'f', 'm', 'i', 'y', 'j', 'e', 'u', 't', 'b', 'r', 'k', 'x', 'g', 'o', 'w']
+Plain text:  so he waxes in wealth nowise can harm him illness or age no evil cares shadow his spirit no sword hate threatens from ever an enemy all the world wends a this will no worse he know eth till all within him obstinate pride waxes and wakes while the warden slumbers the spirits sentry sleep is too fast which masters his might and the murderer near s stealthily shooting the shafts from his bow
+-2446.889621104133
+
+######################################PART 5
+
+CECS 378 Lab 1
+Choose from the following options
+1. Decrypt #1 (Cesar)
+2. Decrypt #2 (Cesar)
+3. Decrypt #3 (Substitution)
+4. Decrypt #4 (Substitution)
+5. Encrypt #1
+6. Encrypt #2
+7. Encrypt #3
+Enter an option: 5
+Now input the key based on the following letters in the phrase. Do not use repeats.
+Key should be 26 characters long and based of the alphabet: abcdefghijklmnopqrstuvwxyz
+qwertyuiopasdfghjklzxcvbnm
+Original Message:
+ hewhofightswithmonstersshouldlooktoitthathehimselfdoesnotbecomeamonsterandifyougazelongintoanabysstheabyssalsogazesintoyou
+Encrypted message:
+ itvigyouizlvozidgflztklligxsrsggazgozziqzitiodltsyrgtlfgzwtegdtqdgflztkqfroyngxuqmtsgfuofzgqfqwnllzitqwnllqslguqmtlofzgngx
+Key: Original:Encrypted
+ {'a': 'q', 'b': 'w', 'c': 'e', 'd': 'r', 'e': 't', 'f': 'y', 'g': 'u', 'h': 'i', 'i': 'o', 'j': 'p', 'k': 'a', 'l': 's', 'm': 'd', 'n': 'f', 'o': 'g', 'p': 'h', 'q': 'j', 'r': 'k', 's': 'l', 't': 'z', 'u': 'x', 'v': 'c', 'w': 'v', 'x': 'b', 'y': 'n', 'z': 'm'}
+
+######################################PART 6
+
+CECS 378 Lab 1
+Choose from the following options
+1. Decrypt #1 (Cesar)
+2. Decrypt #2 (Cesar)
+3. Decrypt #3 (Substitution)
+4. Decrypt #4 (Substitution)
+5. Encrypt #1
+6. Encrypt #2
+7. Encrypt #3
+Enter an option: 6
+Now input the key based on the following letters in the phrase. Do not use repeats.
+Key should be 26 characters long and based of the alphabet: abcdefghijklmnopqrstuvwxyz
+poiuytrewqzxcvmnblkasjhdfg
+Original Message:
+ thereisatheorywhichstatesthatifeveranybodydiscoversexactlywhattheuniverseisforandwhyitishereitwillinstantlydisappearandbereplacedbysomethingevenmorebizarreandinexplicablethereisanothertheorywhichstatesthatthishasalreadyhappened
+Encrypted message:
+ aeylywkpaeymlfhewiekapaykaepawtyjylpvfomufuwkimjylkydpiaxfhepaaeysvwjylkywktmlpvuhefwawkeylywahwxxwvkapvaxfuwkpnnyplpvuoylynxpiyuofkmcyaewvryjyvcmlyowgpllypvuwvydnxwipoxyaeylywkpvmaeylaeymlfhewiekapaykaepaaewkepkpxlypufepnnyvyu
+Key: Original:Encrypted
+ {'a': 'p', 'b': 'o', 'c': 'i', 'd': 'u', 'e': 'y', 'f': 't', 'g': 'r', 'h': 'e', 'i': 'w', 'j': 'q', 'k': 'z', 'l': 'x', 'm': 'c', 'n': 'v', 'o': 'm', 'p': 'n', 'q': 'b', 'r': 'l', 's': 'k', 't': 'a', 'u': 's', 'v': 'j', 'w': 'h', 'x': 'd', 'y': 'f', 'z': 'g'}
+
+######################################PART 7
+
+CECS 378 Lab 1
+Choose from the following options
+1. Decrypt #1 (Cesar)
+2. Decrypt #2 (Cesar)
+3. Decrypt #3 (Substitution)
+4. Decrypt #4 (Substitution)
+5. Encrypt #1
+6. Encrypt #2
+7. Encrypt #3
+Enter an option: 7
+Now input the key based on the following letters in the phrase. Do not use repeats.
+Key should be 26 characters long and based of the alphabet: abcdefghijklmnopqrstuvwxyz
+zaqwsxcderfvbgtyhnmjuiklop
+Original Message:
+ wheneverifindmyselfgrowinggrimaboutthemouthwheneveritisadampdrizzlynovemberinmysoulwheneverifindmyselfinvoluntarilypausingbeforecoffinwarehousesandbringinguptherearofeveryfuneralimeetandespeciallywhenevermyhyposgetsuchanupperhandofmethatitrequiresastrongmoralprincipletopreventmefromdeliberatelysteppingintothestreetandmethodicallyknockingpeople’shatsofftheniaccountithightimetogettoseaassoonasican
+Encrypted message:
+ kdsgsisnexegwbomsvxcntkegccnebzatujjdsbtujdkdsgsisnejemzwzbywneppvogtisbasnegbomtuvkdsgsisnexegwbomsvxegitvugjznevoyzumegcasxtnsqtxxegkznsdtumsmzgwanegcegcuyjdsnszntxsisnoxugsnzvebssjzgwsmysqezvvokdsgsisnbodoytmcsjmuqdzguyysndzgwtxbsjdzjejnshuensmzmjntgcbtnzvynegqeyvsjtynsisgjbsxntbwsveasnzjsvomjsyyegcegjtjdsmjnssjzgwbsjdtweqzvvofgtqfegcystyvs’mdzjmtxxjdsgezqqtugjejdecdjebsjtcsjjtmszzmmttgzmeqzg
+Key: Original:Encrypted
+ {'a': 'z', 'b': 'a', 'c': 'q', 'd': 'w', 'e': 's', 'f': 'x', 'g': 'c', 'h': 'd', 'i': 'e', 'j': 'r', 'k': 'f', 'l': 'v', 'm': 'b', 'n': 'g', 'o': 't', 'p': 'y', 'q': 'h', 'r': 'n', 's': 'm', 't': 'j', 'u': 'u', 'v': 'i', 'w': 'k', 'x': 'l', 'y': 'o', 'z': 'p'}
